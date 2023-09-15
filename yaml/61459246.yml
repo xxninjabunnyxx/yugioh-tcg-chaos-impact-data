@@ -1,0 +1,30 @@
+---
+id: 61459246
+name: Dream Mirror Oneiromancy
+type: Trap Card
+frameType: trap
+desc: "Activate 1 of these effects.\r\n● When your opponent activates a Spell/Trap
+  Card while a \"Dream Mirror of Joy\" is in a Field Zone: Negate the activation,
+  and if you do, destroy that card.\r\n● When your opponent would Special Summon monster(s)
+  while a \"Dream Mirror of Terror\" is in a Field Zone: Negate the Summon, and if
+  you do, destroy that monster.\r\nYou can only activate 1 \"Dream Mirror Oneiromancy\"
+  per turn."
+race: Counter
+archetype: Dream Mirror
+card_sets:
+- set_name: Chaos Impact
+  set_code: CHIM-EN091
+  set_rarity: Rare
+  set_rarity_code: "(R)"
+  set_price: '1.51'
+card_images:
+- id: 61459246
+  image_url: https://images.ygoprodeck.com/images/cards/61459246.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/61459246.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/61459246.jpg
+card_prices:
+- cardmarket_price: '0.18'
+  tcgplayer_price: '0.38'
+  ebay_price: '3.79'
+  amazon_price: '1.39'
+  coolstuffinc_price: '0.39'
